@@ -1,3 +1,5 @@
+## Demo video
+https://drive.google.com/file/d/1eIiEWmvHG7eMxKfYaVNUmat5qDn0rRf1/view?usp=sharing
 # GitGrade AI
 
 GitGrade AI is a beginner-friendly project that analyzes a GitHub repository
